@@ -1,6 +1,5 @@
 import * as React from 'react';
-import {Button, IconButton, Link, Toolbar, Typography} from "@mui/material";
-import SearchIcon from '@mui/icons-material/Search';
+import {Link, Toolbar, Typography} from "@mui/material";
 
 
 interface HeaderProps {
